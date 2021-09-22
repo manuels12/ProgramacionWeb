@@ -1,3 +1,3 @@
 # ProgramacionWeb
 Actividades de la materia
-[Sitio web](/index.html)
+[Sitio web](./index.html)
